@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2636" started-at="2021-06-27T08:05:23 UTC" finished-at="2021-06-27T08:05:26 UTC">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2636" started-at="2021-06-27T08:05:23 UTC" finished-at="2021-06-27T08:05:26 UTC">
+      <class name="test.ProductSelectionTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.ProductSelectionTest@7a9273a8]" name="setup" is-config="true" duration-ms="1731" started-at="2021-06-27T08:05:23 UTC" finished-at="2021-06-27T08:05:25 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:test.ProductSelectionTest@7a9273a8]" name="Logintest" duration-ms="598" started-at="2021-06-27T08:05:25 UTC" finished-at="2021-06-27T08:05:25 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.ProductSelectionTest@7a9273a8]" name="teardown" is-config="true" duration-ms="282" started-at="2021-06-27T08:05:25 UTC" finished-at="2021-06-27T08:05:26 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.ProductSelectionTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
